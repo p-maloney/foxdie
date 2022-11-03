@@ -1,10 +1,10 @@
 # medusa-ml-template
 
 a template project for machine learning experiments, using dockerized tensorflow environments and data downloaders
-
+CHANGED!!!
 # Requirements
 
-* [docker](https://www.docker.com/)
+Docker](https:/www.docker.com/)
 * a bash shell
 
 # Getting Started
@@ -32,3 +32,6 @@ Try this tutorial to learn more [tutorial](https://jupyter.org/try)
 ### Can I deploy this in a cloud environment via Docker? or run it on my big ML rig with many nvidia GPUs?
 
 Hell yes you can! I'll eventually write a more detailed guide here on how to do that, but the setup is almost identical to running locally.
+
+wq
+
